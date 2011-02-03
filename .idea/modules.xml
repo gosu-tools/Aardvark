@@ -5,6 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/aardvark/aardvark.iml" filepath="$PROJECT_DIR$/aardvark/aardvark.iml" />
       <module fileurl="file://$PROJECT_DIR$/aardvark-test/aardvark-test.iml" filepath="$PROJECT_DIR$/aardvark-test/aardvark-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/gosu.iml" filepath="$PROJECT_DIR$/gosu.iml" />
+      <module fileurl="file://$D_PL_CORE$/platform/gosu-core/gosu-core.iml" filepath="$D_PL_CORE$/platform/gosu-core/gosu-core.iml" />
+      <module fileurl="file://$D_PL_CORE$/platform/gosu-core-api/gosu-core-api.iml" filepath="$D_PL_CORE$/platform/gosu-core-api/gosu-core-api.iml" />
+      <module fileurl="file://$D_PL_CORE$/platform/gosu-lib/gosu-lib.iml" filepath="$D_PL_CORE$/platform/gosu-lib/gosu-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gosu-real.iml" filepath="$PROJECT_DIR$/gosu-real.iml" />
       <module fileurl="file://$PROJECT_DIR$/launcher/launcher.iml" filepath="$PROJECT_DIR$/launcher/launcher.iml" />
       <module fileurl="file://$PROJECT_DIR$/root.iml" filepath="$PROJECT_DIR$/root.iml" />
       <module fileurl="file://$PROJECT_DIR$/sampleproject/sampleproject.iml" filepath="$PROJECT_DIR$/sampleproject/sampleproject.iml" />

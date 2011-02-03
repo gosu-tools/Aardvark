@@ -10,7 +10,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="launcher" exported="" />
-    <orderEntry type="module" module-name="gosu" exported="" />
+    <orderEntry type="module" module-name="gosu-real" exported="" />
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
@@ -35,15 +35,7 @@
         <jarDirectory url="file://$MODULE_DIR$/../lib/ivy" recursive="false" />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/../lib/gosu/gw-gosu-core.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
+    <orderEntry type="module" module-name="gosu-core" />
   </component>
 </module>
 
